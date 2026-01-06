@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
-import ListToDoLists from "./ListTodoLists";
+import ListToDoLists from "./ListToDoLists";
 import ToDoList from "./ToDoList";
 
 function App() {
